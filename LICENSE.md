@@ -1,4 +1,4 @@
-# 
+# Enhance Evernote for Windows with advanced Evernote for Windows Script | search-functionality + OCR-support, the #1 script. Includes search-functionality and OCR-support for a
 
 
 
